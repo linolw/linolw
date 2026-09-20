@@ -1,29 +1,16 @@
-<div align="center">
-
-# Leonardo Lino
-
-### Ingeniero de Software
-
-<a href="https://www.linkedin.com/in/leonardolino-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:linoeuros@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+### ⋆⁺₊⋆ Ingeniero de Software ⋆⁺₊⋆
 
 ---
 
-## ⊹ Sobre mí ⊹
+## ⊹ Sobre Mí ⊹
 
-Me interesa el desarrollo de aplicaciones y mejorar productos a partir de problemas reales. Disfruto entender cómo funcionan las cosas, probar ideas y llevarlas a soluciones simples y útiles.
+Ingeniero de Software apasionado por el desarrollo de software orientado a soluciones claras, funcionales y bien estructuradas. Suelo enfocarme en la lógica detrás de cada producto, la mejora de procesos y la construcción de aplicaciones que respondan a necesidades reales.
 
-Trabajo con desarrollo web, bases de datos y herramientas de control de versiones como **Git y GitHub**.
+Tengo experiencia trabajando con desarrollo web, bases de datos y control de versiones con **Git y GitHub**, manteniendo una forma de trabajo analítica, ordenada y orientada a la mejora continua.
 
 ---
 
-## ⊹ Tecnologías y herramientas ⊹
+## ⊹ Tecnologías y Herramientas ⊹
 
 ### ✦ Lenguajes
 
@@ -31,13 +18,13 @@ Trabajo con desarrollo web, bases de datos y herramientas de control de versione
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ✦ Desarrollo web
+### ✦ Desarrollo Web
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### ✦ Bases de datos
+### ✦ Bases de Datos
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -54,9 +41,6 @@ Trabajo con desarrollo web, bases de datos y herramientas de control de versione
 
 ## ⊹ Contacto ⊹
 
-<a href="https://www.linkedin.com/in/leonardolino-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:linoeuros@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardolino-dev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linoeuros@gmail.com)
+
